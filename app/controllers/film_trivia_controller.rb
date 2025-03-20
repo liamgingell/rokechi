@@ -1,0 +1,2 @@
+class FilmTriviaController < ApplicationController
+end

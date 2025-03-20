@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip: one
+  location: one
+  visit_order: 1
+
+two:
+  trip: two
+  location: two
+  visit_order: 1
