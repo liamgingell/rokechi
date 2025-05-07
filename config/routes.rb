@@ -18,4 +18,6 @@ Rails.application.routes.draw do
 
   # Custom Routes
   get "/search", to: "locations#search"
+
+  root "films#index"
 end
