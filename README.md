@@ -1,24 +1,3 @@
-# README
+Rokechi 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rokechi a a React-based application which allows the user to easily find and plot a course for famous film locations in their area. Users can also enjoy creating custom lists of their favourites and recieve guidance via Google Maps in their preferred order.
